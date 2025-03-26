@@ -78,7 +78,7 @@ export default function ResetPasswordForm({token}:{token:string}) {
         <input
           type="submit"
           value='Guardar Password'
-          className="text-[#16253d] hover:bg-purple-800 w-full p-3 rounded-lg text-white font-black  text-xl cursor-pointer block"
+          className="bg-[#efb509] hover:bg-amber-600 w-full p-3 rounded-lg text-white font-black  text-xl cursor-pointer block"
         />
       </form>
     )
