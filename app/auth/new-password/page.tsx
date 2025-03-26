@@ -9,7 +9,7 @@ import React from 'react'
 const NewPasswordPage = () => {
   return (
       <>
-        <h1 className="font-black text-4xltext-[#16253d]">Reestablecer Password</h1>
+        <h1 className="font-black text-4xl text-[#16253d]">Reestablecer Password</h1>
         <p className="text-xl font-bold">Ingresa el código que recibiste
            <span className="text-[#336b87]"> por email</span>
         </p>
